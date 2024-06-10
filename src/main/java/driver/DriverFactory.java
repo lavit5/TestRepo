@@ -51,6 +51,7 @@ public class DriverFactory {
                 System.out.println("Firefox driver created4");
                 System.out.println("Firefox driver created5");
                 System.out.println("Firefox driver created6");
+                System.out.println("Firefox driver created7");
                 break;
             }
 
