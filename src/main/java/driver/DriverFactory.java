@@ -45,6 +45,12 @@ public class DriverFactory {
                 FirefoxOptions firefoxOptions = new FirefoxOptions();
                 firefoxOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
                 driver = new FirefoxDriver(firefoxOptions);
+                System.out.println("Firefox driver created");
+                System.out.println("Firefox driver created2");
+                System.out.println("Firefox driver created3");
+                System.out.println("Firefox driver created4");
+                System.out.println("Firefox driver created5");
+                System.out.println("Firefox driver created6");
                 break;
             }
 
