@@ -36,6 +36,8 @@ public class DriverFactory {
                 System.out.println("Chrome driver created2");
                 System.out.println("Chrome driver created3");
                 System.out.println("Chrome driver created4");
+                System.out.println("Chrome driver created5");
+                System.out.println("Chrome driver created6");
                 break;
             }
             case "firefox": {
