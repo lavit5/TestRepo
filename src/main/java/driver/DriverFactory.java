@@ -33,6 +33,9 @@ public class DriverFactory {
                 chromeOptions.setPageLoadStrategy(PageLoadStrategy.NORMAL);
                 driver = new ChromeDriver(chromeOptions);
                 System.out.println("Chrome driver created");
+                System.out.println("Chrome driver created2");
+                System.out.println("Chrome driver created3");
+                System.out.println("Chrome driver created4");
                 break;
             }
             case "firefox": {
