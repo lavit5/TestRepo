@@ -38,6 +38,8 @@ public class DriverFactory {
                 System.out.println("Chrome driver created4");
                 System.out.println("Chrome driver created5");
                 System.out.println("Chrome driver created6");
+                System.out.println("Chrome driver created7");
+                System.out.println("Chrome driver created8");
                 break;
             }
             case "firefox": {
@@ -51,6 +53,8 @@ public class DriverFactory {
                 System.out.println("Firefox driver created4");
                 System.out.println("Firefox driver created5");
                 System.out.println("Firefox driver created6");
+                System.out.println("Firefox driver created7");
+                System.out.println("Firefox driver created8");
                 break;
             }
 
